@@ -10,6 +10,7 @@ DOWNLOAD INSTRUCTIONS:
 Mac:
 
 5) In the MacOS folder, folder open the app. 
+6) You may have to grant access to a folder on your computer. This is so that the game can store your player settings. It should ask you for permission to access the same folder you have stored the game in.
 Note: You may have to go to your 'Security & Privacy' settings and under the general tab, click 'open anyway' button before the game will open. 
 
 Windows: 
