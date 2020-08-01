@@ -1,6 +1,10 @@
 # TrashThiefApplications
 
-DOWNLOAD INSTRUCTIONS:
+Play our game online:
+Access the webGL format of our game is available here: https://malry.itch.io/trash-thief
+
+
+TO DOWNLOAD:
 
 1) Click the green 'Code' button in the upper right hand corner of this repository
 2) Click 'Download ZIP'
@@ -19,10 +23,6 @@ Windows:
 6) In the window that pops up, you should be able to choose where you would like to save the games files. Make sure that you have 'Show extracted files when complete' checked. 
 7) In the window that opens, click on file titled 'Trash Thief' with the icon of a racoon.
 Note: You may get a pop up window saying 'Windows protected your PC'. If you get this just click 'More info', then 'Run anyway'.
-
-
-WebGL:
-Access the web version of our game here: https://malry.itch.io/trash-thief
 
 
 
