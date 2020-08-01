@@ -23,3 +23,15 @@ Note: You may get a pop up window saying 'Windows protected your PC'. If you get
 
 WebGL:
 Access the web version of our game here: https://malry.itch.io/trash-thief
+
+
+
+This was a Software Engineering Project completed for Florida State University by:
+
+  Mason Ballard
+  Shourik Das
+  Jianna Pena
+  Malry Tardd
+  Pengfei Yang
+  
+(CEN 4020, Summer 2020, C. Mills)
