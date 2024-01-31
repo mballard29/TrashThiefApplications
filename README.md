@@ -1,5 +1,9 @@
 # TrashThiefApplications
 
+Play our RPG side-scroller as a racoon looking for trash. Collect food scraps, but avoid strangers and other animals. 
+
+![launch screen]("images/Screenshot 2024-01-31 113959.png")
+
 Play our game online:
 Access the webGL format of our game is available here: https://malry.itch.io/trash-thief
 
