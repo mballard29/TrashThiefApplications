@@ -1,6 +1,6 @@
 # TrashThiefApplications
 
-Play our RPG side-scroller as a racoon looking for trash. Collect food scraps, but avoid strangers and other animals. 
+Play our RPG side-scroller as a racoon looking for trash. Collect food scraps and boosters, but avoid strangers and other animals.
 
 <p align="center">
  <img src="images/launchscreen.png" width=50% height=50%>
