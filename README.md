@@ -2,7 +2,7 @@
 
 Play our RPG side-scroller as a racoon looking for trash. Collect food scraps, but avoid strangers and other animals. 
 
-![launch](images/launchscreen.png)
+<img src="images/launchscreen.png" width=50% height=50%>
 ![menu](images/levelsmenu.png)
 
 Play our game online:
